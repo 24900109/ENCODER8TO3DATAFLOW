@@ -34,9 +34,17 @@ Logical circuit of the above expressions is given below:
 
 Figure 02  Encoder 8 * 3
 
-**Procedure**
 
-/* write all the steps invloved */
+## Procedure
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 
@@ -53,9 +61,4 @@ Developed by: Kiruthika.N/ RegisterNumber: 24900109
 ![Screenshot 2024-12-17 153905](https://github.com/user-attachments/assets/c56ff49f-d688-4fd8-8797-1f4682e0269a)
 
 **RESULTS**
-
 Thus Encoder 8 to 3 designed and truthtable is verified.
-
-
-
-
