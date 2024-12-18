@@ -42,7 +42,7 @@ Figure 02  Encoder 8 * 3
 
 Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: ROSHINI A / RegisterNumber: 24002364
+Developed by: Kiruthika.N/ RegisterNumber: 24900109
 ![Screenshot 2024-12-17 153822](https://github.com/user-attachments/assets/f31e8c7b-d67d-4def-8a0c-114c48ac6172)
 
 
@@ -53,6 +53,7 @@ Developed by: ROSHINI A / RegisterNumber: 24002364
 ![Screenshot 2024-12-17 153905](https://github.com/user-attachments/assets/c56ff49f-d688-4fd8-8797-1f4682e0269a)
 
 **RESULTS**
+
 Thus Encoder 8 to 3 designed and truthtable is verified.
 
 
